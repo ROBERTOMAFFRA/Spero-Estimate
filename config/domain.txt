@@ -1,0 +1,1 @@
+Connect domain speroestimate.com via Render custom domains after deploy. Add DNS records as provided by Render.
